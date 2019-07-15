@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.cloudflare.com	TRUE	/	FALSE	1999999999	__cfduid	d9d4d16112e02fa1bdeb6c5819e789f831563212489
+.groovy.bot	TRUE	/	FALSE	1999999999	__cfduid	daa3d5974e8fa1898f07829be6b70e0451563212495
+groovy.bot	TRUE	/	FALSE	1999999999	auth.strategy	local
+
